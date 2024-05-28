@@ -1,0 +1,10 @@
+Collision,Deductible,Roadside,Extra,Rank
+1mill_Collision,300_Deductable,no_Roadside,no_Extra,6
+1mill_Collision,500_Deductable,yes_Roadside,no_Extra,5
+2mill_Collision,500_Deductable,no_Roadside,no_Extra,8
+2mill_Collision,1000_Deductable,yes_Roadside,yes_Extra,9
+5mill_Collision,1000_Deductable,yes_Roadside,yes_Extra,4
+5mill_Collision,300_Deductable,yes_Roadside,yes_Extra,1
+2mill_Collision,300_Deductable,no_Roadside,yes_Extra,7
+1mill_Collision,500_Deductable,yes_Roadside,yes_Extra,3
+5mill_Collision,1000_Deductable,no_Roadside,no_Extra,2
